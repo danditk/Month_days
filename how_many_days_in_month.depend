@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550325381 source:c:\users\administrator\desktop\programming\c++\calculator\how_many_days_in_month\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
